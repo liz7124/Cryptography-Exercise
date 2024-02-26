@@ -1,7 +1,7 @@
 const crypto = require('crypto');
 
 let recipientHash, hashType
-hashType = 'sha256';
+hashType = 'sha256'; //you can change to md5, sha1, or sha256
 
 console.log("----------------------------------------");
 console.log("Begin hash scenario\n");
