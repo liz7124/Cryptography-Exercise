@@ -1,2 +1,7 @@
 # Cryptography-Exercise
-Tutorial for using crypto library in NodeJS for Blockchain Class - Week 02_Cryptography
+Tutorial for using ```crypto``` library in NodeJS for Blockchain Class - Week 02_Cryptography
+
+There are three folders:
+1. Hash: contains tutorial and mock-up scenario for implementations of cryptography hash functions (MD5, SHA1, SHA256)
+2. Digital Signature: contains tutorial and mock-up scenario for implementations of digital signatures (ECDSA and RSA)
+3. Encryption:  contains tutorial and mock-up scenario for implementations of symmetric encryption (AES) and asymmetric encryption (RSA)
