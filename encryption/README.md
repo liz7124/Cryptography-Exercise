@@ -2,7 +2,7 @@ There are two implementations of encryption:
 1. Symmetric (AES)
 2. Asymmetric (RSA)
 
-The goal of encryption is to hide message so that if the attacker intercepts the message it will mean nothing. It is crucial if sender wants to send confidential message to the recipient.
+The goal of encryption is to hide the message so that if the attacker intercepts the message it will mean nothing. It is crucial if the sender wants to send a confidential message to the recipient.
 
 ### AES
 
