@@ -1,3 +1,5 @@
+The goal of Hash function is to ensure the integrity of a message.
+
 This file contains two scenarios below:
 #### Valid scenario
 1. The sender wants to send a message to the recipient
