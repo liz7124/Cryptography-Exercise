@@ -1,4 +1,4 @@
-const crypto = require('crypto');
+const crypto = require('crypto'); //npm install crypto
 
 const options = {
   modulusLength: 2048, // default is 2048 bits

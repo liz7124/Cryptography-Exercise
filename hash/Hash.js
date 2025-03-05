@@ -44,6 +44,7 @@ console.log("Message: ", fakeMessage);
 //Mock Transmission Start//
 console.log("Attacker sends FAKE MESSAGE and HASH to recipient\n");
 //Mock Transmission End//
+//contoh Hash value--> 3f98b95c16476f0b2fc37e8e664a11312966b635f60537f1f5ed75216fa0c060
 
 console.log("--------------Client side----------------");
 recipientHash = crypto.createHash(hashType).update(fakeMessage).digest('hex');

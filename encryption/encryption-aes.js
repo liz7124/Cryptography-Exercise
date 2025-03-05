@@ -1,4 +1,4 @@
-const crypto = require('crypto');
+const crypto = require('crypto'); //npm install crypto
 
 // both party agree on which algorithm to use
 const algorithm = "aes-256-cbc";
